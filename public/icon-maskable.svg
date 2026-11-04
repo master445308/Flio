@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg_mask" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="primary_mask" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="accent_mask" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Full-bleed background for maskable icon -->
+  <rect width="512" height="512" fill="url(#bg_mask)"/>
+
+  <!-- Scaled down to 72% to fit comfortably in safe zone (80% diameter) -->
+  <g transform="translate(256, 256) scale(0.72)">
+    <circle r="180" fill="none" stroke="#1e293b" stroke-width="4" stroke-dasharray="14 18" opacity="0.8"/>
+    <circle r="140" fill="none" stroke="url(#primary_mask)" stroke-width="3" opacity="0.3"/>
+    
+    <!-- Central Hexagonal Tech Shield -->
+    <path d="M 0,-130 L 112,-65 L 112,65 L 0,130 L -112,65 L -112,-65 Z" fill="#0f172a" stroke="url(#primary_mask)" stroke-width="10"/>
+
+    <!-- Dynamic Bolt & "E" Symbol -->
+    <path d="M 15,-90 L -55,-5 L 5,-5 L -25,90 L 65,-5 L 5,-5 Z" fill="url(#primary_mask)"/>
+    
+    <circle cx="55" cy="-55" r="9" fill="url(#accent_mask)"/>
+    <circle cx="-55" cy="55" r="6" fill="#38bdf8"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "ElectroNova — Магазин электроники",
+  "description": "Мобильный интернет-магазин электроники и гаджетов в Казахстане. Каталог, корзина, цены в тенге (₸), рассрочка Kaspi 0-0-12 и PWA установка.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

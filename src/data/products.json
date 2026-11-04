@@ -1,0 +1,480 @@
+[
+  {
+    "id": "prod-1",
+    "title": "Apple iPhone 16 Pro Max 256GB",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 749990,
+    "oldPrice": 824990,
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "inStock": true,
+    "stockCount": 14,
+    "badge": "Хит",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Флагманский смартфон с титановым корпусом, мощнейшим процессором A18 Pro, новой кнопкой Camera Control и впечатляющей автономностью до 33 часов видео.",
+    "specs": {
+      "Процессор": "Apple A18 Pro (3 нм)",
+      "Экран": "6.9\" Super Retina XDR OLED, 120 Гц ProMotion",
+      "Память": "256 ГБ встроенной / 8 ГБ RAM",
+      "Камера": "48 Мп Fusion + 48 Мп Ультраширик + 12 Мп 5x Телевик",
+      "Материал": "Титановый сплав Grade 5, Ceramic Shield",
+      "Аккумулятор": "4685 мА·ч, быстрая зарядка MagSafe 25W"
+    },
+    "createdAt": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "prod-2",
+    "title": "Samsung Galaxy S25 Ultra 512GB AI Titanium",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 699990,
+    "oldPrice": 774990,
+    "rating": 4.8,
+    "reviewsCount": 98,
+    "inStock": true,
+    "stockCount": 9,
+    "badge": "Новинка",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Ультимативный флагман на Snapdragon 8 Elite с поддержкой Galaxy AI следующего поколения, встроенным электронным пером S-Pen и камерой 200 Мп.",
+    "specs": {
+      "Процессор": "Qualcomm Snapdragon 8 Elite (for Galaxy)",
+      "Экран": "6.8\" Dynamic AMOLED 2X, 1-120 Гц, 2600 нит",
+      "Память": "512 ГБ UFS 4.0 / 12 ГБ LPDDR5X",
+      "Камера": "200 Мп + 50 Мп + 50 Мп перископ + 10 Мп",
+      "Стилус": "Встроенный S Pen с Bluetooth и жестами",
+      "Аккумулятор": "5000 мА·ч, проводная зарядка 45 Вт"
+    },
+    "createdAt": "2026-02-01T12:00:00Z"
+  },
+  {
+    "id": "prod-3",
+    "title": "Apple MacBook Pro 14\" M3 Pro Space Black",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 1099990,
+    "oldPrice": 1199990,
+    "rating": 5,
+    "reviewsCount": 64,
+    "inStock": true,
+    "stockCount": 6,
+    "badge": "Хит",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Профессиональный ноутбук в цвете «черный космос». Чип M3 Pro с аппаратным ускорением трассировки лучей обеспечивает феноменальную производительность и до 22 часов работы.",
+    "specs": {
+      "Чип": "Apple M3 Pro (11-ядерный CPU, 14-ядерный GPU)",
+      "Память": "18 ГБ объединенной памяти",
+      "Накопитель": "512 ГБ сверхбыстрый SSD",
+      "Дисплей": "14.2\" Liquid Retina XDR, Mini-LED, 120 Гц",
+      "Порты": "3x Thunderbolt 4, HDMI, SDXC, MagSafe 3",
+      "Вес": "1.61 кг"
+    },
+    "createdAt": "2026-01-05T09:00:00Z"
+  },
+  {
+    "id": "prod-4",
+    "title": "Игровой ноутбук ASUS ROG Zephyrus G16 OLED",
+    "brand": "ASUS",
+    "category": "laptops",
+    "price": 1249990,
+    "oldPrice": 1399990,
+    "rating": 4.9,
+    "reviewsCount": 37,
+    "inStock": true,
+    "stockCount": 4,
+    "badge": "Скидка",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Ультратонкий алюминиевый корпус с интерактивной световой полосой Slash Lighting. 2.5K OLED 240 Гц дисплей и видеокарта NVIDIA RTX 4080 для бескомпромиссного гейминга.",
+    "specs": {
+      "Процессор": "Intel Core Ultra 9 185H (16 ядер)",
+      "Видеокарта": "NVIDIA GeForce RTX 4080 12GB GDDR6 (115W)",
+      "Экран": "16.0\" ROG Nebula OLED 2.5K (2560x1600), 240 Гц, 0.2 мс",
+      "Память": "32 ГБ LPDDR5X 7467 МГц",
+      "Накопитель": "2 ТБ PCIe 4.0 NVMe M.2 SSD",
+      "Охлаждение": "Испарительная камера + жидкий металл"
+    },
+    "createdAt": "2026-01-20T14:30:00Z"
+  },
+  {
+    "id": "prod-5",
+    "title": "Беспроводные наушники Sony WH-1000XM5 Black",
+    "brand": "Sony",
+    "category": "audio",
+    "price": 184990,
+    "oldPrice": 214990,
+    "rating": 4.9,
+    "reviewsCount": 215,
+    "inStock": true,
+    "stockCount": 22,
+    "badge": "Хит",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Эталонное активное шумоподавление с двумя процессорами и 8 микрофонами. Безупречное Hi-Res звучание с кодеком LDAC и непревзойденный комфорт в течение 30 часов.",
+    "specs": {
+      "Шумоподавление": "Активное ANC с процессорами V1 и QN1",
+      "Драйвер": "30 мм купольный из углеродного волокна",
+      "Автономность": "До 30 часов с ANC (до 40 ч без ANC)",
+      "Подключение": "Bluetooth 5.2, LDAC, AAC, Multipoint на 2 устройства",
+      "Вес": "250 г"
+    },
+    "createdAt": "2026-01-15T11:00:00Z"
+  },
+  {
+    "id": "prod-6",
+    "title": "Наушники Apple AirPods Pro 2 USB-C MagSafe",
+    "brand": "Apple",
+    "category": "audio",
+    "price": 124990,
+    "oldPrice": 144990,
+    "rating": 4.9,
+    "reviewsCount": 310,
+    "inStock": true,
+    "stockCount": 35,
+    "badge": "Хит",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Обновленная версия флагманских TWS-наушников с разъемом USB-C, адаптивным аудио, улучшенным режимом прозрачности и защитой от пыли и влаги IP54.",
+    "specs": {
+      "Чип": "Apple H2 в наушниках, U1 в кейсе",
+      "Шумоподавление": "В 2 раза эффективнее 1-го поколения",
+      "Кейс": "USB-C, MagSafe, динамик для поиска Локатором",
+      "Автономность": "6 часов (до 30 часов с кейсом)",
+      "Влагозащита": "IP54 (наушники и кейс)"
+    },
+    "createdAt": "2026-01-18T16:00:00Z"
+  },
+  {
+    "id": "prod-7",
+    "title": "Игровая консоль Sony PlayStation 5 Pro 2TB",
+    "brand": "Sony",
+    "category": "gaming",
+    "price": 449990,
+    "oldPrice": 499990,
+    "rating": 4.9,
+    "reviewsCount": 89,
+    "inStock": true,
+    "stockCount": 8,
+    "badge": "Новинка",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Самая мощная консоль PlayStation с графическим процессором на 67% мощнее, технологией масштабирования PSSR с искусственным интеллектом и 2 ТБ SSD памяти.",
+    "specs": {
+      "Графика": "PSSR AI Upscaling, продвинутый Ray Tracing",
+      "Память": "2 ТБ кастомный ультрабыстрый SSD NVMe",
+      "Разрешение": "До 4K 120 FPS / 8K поддержка",
+      "Контроллер": "DualSense с тактильной отдачей и адаптивными триггерами",
+      "Wi-Fi": "Wi-Fi 7 (IEEE 802.11be)"
+    },
+    "createdAt": "2026-01-25T13:00:00Z"
+  },
+  {
+    "id": "prod-8",
+    "title": "Умные часы Apple Watch Ultra 2 Titanium 49mm",
+    "brand": "Apple",
+    "category": "wearables",
+    "price": 424990,
+    "oldPrice": 474990,
+    "rating": 4.8,
+    "reviewsCount": 76,
+    "inStock": true,
+    "stockCount": 11,
+    "badge": "Выбор редакции",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Часы для экстремальных условий и профессионального спорта. Яркость дисплея 3000 нит, двухчастотный GPS, глубина погружения до 40 м и жест Double Tap.",
+    "specs": {
+      "Корпус": "Аэрокосмический титан 49 мм, сапфировое стекло",
+      "Экран": "OLED LTPO Always-On, яркость 3000 нит",
+      "Процессор": "Apple S9 SiP с 4-ядерным Neural Engine",
+      "Датчики": "ЭКГ, пульсоксиметр, температура воды и тела, глубиномер",
+      "Автономность": "До 36 часов стандартно, до 72 часов в энергосбережении"
+    },
+    "createdAt": "2026-01-22T08:00:00Z"
+  },
+  {
+    "id": "prod-9",
+    "title": "Изогнутый OLED монитор LG UltraGear 34\" 240Hz",
+    "brand": "LG",
+    "category": "monitors",
+    "price": 599990,
+    "oldPrice": 674990,
+    "rating": 4.9,
+    "reviewsCount": 42,
+    "inStock": true,
+    "stockCount": 5,
+    "badge": "Хит",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Изогнутый 800R ультраширокий экран с бесконечной контрастностью OLED, временем отклика 0.03 мс и частотой 240 Гц с поддержкой G-Sync и FreeSync Premium Pro.",
+    "specs": {
+      "Диагональ": "34 дюйма (86.4 см), изгиб 800R",
+      "Матрица": "OLED, 3440 x 1440 (UWQHD), 21:9",
+      "Частота / Отклик": "240 Гц, 0.03 мс (GtG)",
+      "Цветовой охват": "DCI-P3 98.5%, контрастность 1 500 000:1",
+      "Разъемы": "2x HDMI 2.1, DisplayPort 1.4, USB-концентратор"
+    },
+    "createdAt": "2026-01-12T15:00:00Z"
+  },
+  {
+    "id": "prod-10",
+    "title": "Квадрокоптер DJI Mini 4 Pro Fly More Combo",
+    "brand": "DJI",
+    "category": "accessories",
+    "price": 524990,
+    "oldPrice": 599990,
+    "rating": 4.9,
+    "reviewsCount": 55,
+    "inStock": true,
+    "stockCount": 7,
+    "badge": "Новинка",
+    "image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Компактный дрон весом до 249 грамм. Съемка в 4K/60fps HDR, всенаправленное распознавание препятствий и до 34 минут полета на одном аккумуляторе.",
+    "specs": {
+      "Вес": "Менее 249 г (не требует регистрации во многих зонах)",
+      "Камера": "1/1.3\" CMOS 48 Мп, 4K/60fps HDR, вертикальная съемка",
+      "Безопасность": "Всенаправленные сенсоры обнаружения препятствий APAS 5.0",
+      "Дальность связи": "DJI O4 до 20 км в качестве 1080p/60fps",
+      "Комплект": "Пульт DJI RC 2 с экраном + 3 батареи + сумка + хаб"
+    },
+    "createdAt": "2026-02-05T10:15:00Z"
+  },
+  {
+    "id": "prod-11",
+    "title": "Беспроводная мышь Logitech MX Master 3S Graphite",
+    "brand": "Logitech",
+    "category": "accessories",
+    "price": 59990,
+    "oldPrice": 71990,
+    "rating": 4.8,
+    "reviewsCount": 184,
+    "inStock": true,
+    "stockCount": 28,
+    "badge": "Хит",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Флагманская эргономичная мышь для продуктивной работы. Сенсор 8000 DPI работает даже на стекле, а электромагнитное колесо MagSpeed прокручивает 1000 строк в секунду.",
+    "specs": {
+      "Сенсор": "Darkfield 8000 DPI (настраиваемый с шагом 50)",
+      "Кнопки": "Quiet Clicks (на 90% тише клик)",
+      "Колесо": "Металлическое MagSpeed SmartShift + горизонтальное колесо",
+      "Подключение": "Bluetooth LE или Logi Bolt, до 3 ПК с Logitech Flow",
+      "Автономность": "До 70 дней, быстрая зарядка через USB-C"
+    },
+    "createdAt": "2026-01-08T18:00:00Z"
+  },
+  {
+    "id": "prod-12",
+    "title": "Беспроводная колонка Marshall Stanmore III Black",
+    "brand": "Marshall",
+    "category": "audio",
+    "price": 219990,
+    "oldPrice": 249990,
+    "rating": 4.9,
+    "reviewsCount": 93,
+    "inStock": true,
+    "stockCount": 10,
+    "badge": "Скидка",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Легендарный винтажный дизайн рок-н-ролла и мощный панорамный стереозвук. Функция Dynamic Loudness подстраивает тональный баланс на любой громкости.",
+    "specs": {
+      "Мощность": "80 Вт (1x 50 Вт сабвуфер + 2x 15 Вт твиттеры)",
+      "Интерфейсы": "Bluetooth 5.2 (LE Audio ready), RCA, AUX 3.5 мм",
+      "Диапазон": "45 – 20 000 Гц",
+      "Управление": "Латунные аналоговые регуляторы баса, высоких частот и громкости",
+      "Вес": "4.25 кг"
+    },
+    "createdAt": "2026-01-28T14:00:00Z"
+  },
+  {
+    "id": "prod-13",
+    "title": "Планшет Apple iPad Pro 13\" M4 256GB OLED Space Black",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 799990,
+    "oldPrice": 874990,
+    "rating": 4.9,
+    "reviewsCount": 88,
+    "inStock": true,
+    "stockCount": 12,
+    "badge": "Новинка",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Самый тонкий продукт в истории Apple (всего 5.1 мм). Революционный чип M4 с поддержкой аппаратной трассировки лучей и двухслойный тандемный OLED-экран Ultra Retina XDR.",
+    "specs": {
+      "Процессор": "Apple M4 (38 трлн операций в секунду NPU)",
+      "Экран": "13\" Tandem OLED Ultra Retina XDR, 1600 нит",
+      "Толщина": "Ультратонкий корпус 5.1 мм",
+      "Память": "256 ГБ сверхбыстрой флеш-памяти / 8 ГБ RAM",
+      "Подключение": "Thunderbolt 4 / USB 4, Wi-Fi 6E, Face ID"
+    },
+    "createdAt": "2026-02-02T10:00:00Z"
+  },
+  {
+    "id": "prod-14",
+    "title": "Видеокарта ASUS ROG Strix GeForce RTX 4090 24GB OC",
+    "brand": "ASUS",
+    "category": "gaming",
+    "price": 1199990,
+    "oldPrice": 1299990,
+    "rating": 5,
+    "reviewsCount": 45,
+    "inStock": true,
+    "stockCount": 5,
+    "badge": "Хит",
+    "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Флагманский графический процессор с рекордной производительностью для 4K/8K гейминга с трассировкой лучей и генерацией кадров DLSS 3.5. Массивный радиатор и вентиляторы Axial-tech.",
+    "specs": {
+      "Видеопамять": "24 ГБ GDDR6X, шина 384-бит (1008 ГБ/с)",
+      "Архитектура": "NVIDIA Ada Lovelace, 16384 ядер CUDA",
+      "Частота OC": "2640 МГц в режиме Boost",
+      "Питание": "Рекомендуемый БП от 1000 Вт, 16-pin 12VHPWR",
+      "Охлаждение": "3.5-слотовый дизайн с испарительной камерой"
+    },
+    "createdAt": "2026-01-16T12:00:00Z"
+  },
+  {
+    "id": "prod-15",
+    "title": "Шлем виртуальной реальности Sony PlayStation VR2",
+    "brand": "Sony",
+    "category": "gaming",
+    "price": 324990,
+    "oldPrice": 364990,
+    "rating": 4.8,
+    "reviewsCount": 62,
+    "inStock": true,
+    "stockCount": 9,
+    "badge": "Новинка",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269bc1df?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1622979135225-d2ba269bc1df?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Погружение следующего поколения: 4K HDR OLED дисплеи (2000x2040 на каждый глаз), отслеживание движения глаз, тактильная отдача самого шлема и адаптивные триггеры контроллеров Sense.",
+    "specs": {
+      "Дисплей": "OLED, 4K HDR (4000x2040 суммарно), 120 Гц",
+      "Угол обзора": "110 градусов широкого охвата",
+      "Сенсоры": "Отслеживание взгляда (Eye Tracking), 4 встроенные камеры",
+      "Звук": "Tempest 3D AudioTech",
+      "Контроллеры": "PlayStation VR2 Sense с тактильным виброоткликом"
+    },
+    "createdAt": "2026-01-24T15:30:00Z"
+  },
+  {
+    "id": "prod-16",
+    "title": "Беспроводные наушники Bose QuietComfort Ultra Black",
+    "brand": "Bose",
+    "category": "audio",
+    "price": 209990,
+    "oldPrice": 234990,
+    "rating": 4.9,
+    "reviewsCount": 71,
+    "inStock": true,
+    "stockCount": 16,
+    "badge": "Выбор редакции",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Флагманский пространственный звук Bose Immersive Audio и технология CustomTune, индивидуально калибрующая звучание под акустику вашего ушного канала.",
+    "specs": {
+      "Шумоподавление": "Технология мирового уровня Quiet Mode & Aware Mode",
+      "Пространственный звук": "Bose Immersive Audio с фиксацией в пространстве",
+      "Автономность": "До 24 часов воспроизведения (18 часов с Immersive)",
+      "Материалы": "Мягкая экокожа, литой алюминий",
+      "Подключение": "Bluetooth 5.3, Snapdragon Sound, aptX Adaptive"
+    },
+    "createdAt": "2026-02-03T11:20:00Z"
+  },
+  {
+    "id": "prod-17",
+    "title": "Беззеркальный фотоаппарат Canon EOS R5 Mark II Body",
+    "brand": "Canon",
+    "category": "accessories",
+    "price": 1949990,
+    "oldPrice": 2149990,
+    "rating": 5,
+    "reviewsCount": 29,
+    "inStock": true,
+    "stockCount": 3,
+    "badge": "Хит",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Профессиональная полнокадровая камера с обратной засветкой 45 Мп, видеосъемкой в 8K 60p RAW, нейросетевым автофокусом Dual Pixel Intelligent AF и стабилизацией 8.5 ступеней.",
+    "specs": {
+      "Матрица": "45 Мп полнокадровая многослойная BSI CMOS",
+      "Видео": "8K 60p RAW, 4K 120p без кропа, Canon Log 2/3",
+      "Процессор": "DIGIC X + сопроцессор ускорения нейросетей DIGIC Accelerator",
+      "Автофокус": "Dual Pixel Intelligent AF с распознаванием лиц и глаз",
+      "Стабилизация": "IBIS матричная до 8.5 ступеней экспозиции"
+    },
+    "createdAt": "2026-02-04T09:00:00Z"
+  },
+  {
+    "id": "prod-18",
+    "title": "Профессиональный монитор Apple Studio Display 27\" 5K",
+    "brand": "Apple",
+    "category": "monitors",
+    "price": 949990,
+    "oldPrice": 1049990,
+    "rating": 4.9,
+    "reviewsCount": 52,
+    "inStock": true,
+    "stockCount": 6,
+    "badge": "Выбор редакции",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "27-дюймовый Retina 5K дисплей с разрешением 5120x2880, встроенной 12 Мп сверхширокоугольной камерой с функцией «В центре внимания», системой из 6 динамиков с Dolby Atmos.",
+    "specs": {
+      "Дисплей": "27 дюймов 5K Retina (5120x2880), 218 ppi, 600 нит",
+      "Цветопередача": "1 миллиард цветов, широкий цветовой охват P3, True Tone",
+      "Камера": "12 Мп с Center Stage и углом обзора 122°",
+      "Аудиосистема": "6 динамиков с пространственным звуком Spatial Audio",
+      "Порты": "1x Thunderbolt 3 (зарядка до 96 Вт), 3x USB-C (10 Гбит/с)"
+    },
+    "createdAt": "2026-01-29T16:40:00Z"
+  }
+]
